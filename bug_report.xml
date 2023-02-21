@@ -1,0 +1,20 @@
+<?xml bug report?>
+
+<bug report>
+	<summary/>
+	<priority>
+		<title = highestp0/>
+		<title = high p1/>
+		<title = normal p2/>
+		<title = low p3/>
+	</priority>
+	<severity>
+		<title = blocker/>
+		<title = critical/>
+		<title = major/>
+		<title = minor/>
+	</severity>
+	<description/>
+	<attachments/>
+</bug report>
+
